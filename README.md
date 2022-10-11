@@ -1,8 +1,9 @@
 # Manage Website
 
-First tailwind project
+Made with React.js and Tailwind.css
 
-This is my first tailwind project built following the frontend mentor Manage template and tailwind.css framework
+This is project built following the frontend mentor Manage template.
+
 Cloning or Forking the repo? Follow these steps:
 
 * Copy the HTTPS link and paste on your favourite Code Editor
